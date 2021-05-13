@@ -7,3 +7,6 @@ def Tomek():
     print ("TOmeczek")
     Hellow world
     Halfi()
+
+def newfunc():
+    print ('Eror')
