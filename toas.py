@@ -5,5 +5,5 @@ def Halfi():
 
 def Tomek():
     print ("TOmeczek")
-    
+    Hellow world
     Halfi()
