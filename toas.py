@@ -10,3 +10,8 @@ def Tomek():
 
 def newfunc():
     print ('Eror')
+
+def come():
+    print ():DeprecationWarning
+    asd
+    
